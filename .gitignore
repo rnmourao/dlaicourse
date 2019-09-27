@@ -15,3 +15,5 @@ TensorFlow In Practice/.DS_Store
 .DS_Store
 JavaScript Course/.DS_Store
 .DS_Store
+venv/
+__pycache__/
